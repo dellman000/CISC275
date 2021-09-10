@@ -7,8 +7,8 @@ github repository is [here](https://github.com/dellman000/CISC275/blob/main/READ
 
 # Change Log
 
-My attempt to make React work is linked [here](https://github.com/dellman000/CISC275-testing)
-the tutorial I used to learn react [here](youtube.com/watch?v=dGcsHMXbSOA&list=LL&index=2&t=159s)
+My attempt to make React work is linked [here](https://github.com/dellman000/CISC275-testing) 
+the tutorials I used to learn react [here](https://www.youtube.com/watch?v=dGcsHMXbSOA&list=LL&index=3&t=159s&ab_channel=DevEd) 
  and [here](https://www.youtube.com/watch?v=hQAHSlTtcmY&t=787s&ab_channel=WebDevSimplified)
  
  Tutrials I used to get git hub working 
