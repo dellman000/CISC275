@@ -17,14 +17,15 @@ the tutorial I used to learn react [here](youtube.com/watch?v=dGcsHMXbSOA&list=L
  3. [3](https://www.youtube.com/watch?v=wrb7Gge9yoE&t=302s&ab_channel=Codecademy)
 
 Issues with React
-  1. getting the react project to work with github pages 
+  1. getting the react project to work with Github pages 
   2. understanding props, and containers  
-  3. getting my computer to do a sucessfull push and pull
+  3. getting my computer to do a successful push and pull
 
 # To DO
 1. Goal is to make a 3D tick tac toe game 
-2. learn to how to make better looking websites using CSS and bootstrap
-3. 
+2. learn how to make better-looking websites using CSS and bootstrap
+3. Animating sprites in JS
+4. should use typescript more than javascript
 
 
 
