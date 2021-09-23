@@ -30,6 +30,7 @@ Issues with React
   2. understanding props, and containers making progress
   3. getting my computer to do a successful push and pull-not and issue
   4. No new issues with the fundamentals 
+  5. I am having issues with formating with CSS
 
 # To DO
 1. Goal is to make a 3D tick tac toe game-50 precent done 
@@ -40,7 +41,16 @@ Issues with React
 6. build an outline of the UI 
 7. Want to learn how to add sound effect
 8. Need to learn how to add interactive animations(like on clcik command causes image to spin)
-9. 
-10. 
+
+# TO DO as of 9/23/2021
+1. I have finished making tic-tac-toe 
+2. I used more CSS But did not use Bootstrap
+3. 
+# What I should focues on
+1. I want to see If I can push information to Google Fire store or Firebase to see if I can make it an online game
+2. Better formating to fit smartphones 
+3. I should add a Score Board
+4.  Sound effects are overrated dont need them
+
 
 
