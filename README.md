@@ -52,5 +52,16 @@ Issues with React
 3. I should add a Score Board
 4.  Sound effects are overrated dont need them
 
+# What I got done as 9/30/2021
+1. tic tac toe is finished 
+2. I have a score board 
+3. I have a title Bannor
+4. The screen is better fitted for smartphones and smaller screens
+5. I converted the "who won" functions into typescript 
+
+# What I couldnt figure out
+6. no sound effects
+7. No google firestore
+
 
 
